@@ -23,7 +23,7 @@ RSS Router is a flexible and powerful tool for generating and managing RSS feeds
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/SYYANI/rss-router](https://github.com/SYYANI/rss-router.git)
+   git clone https://github.com/SYYANI/rss-router.git
    cd rss-router
    ```
 
