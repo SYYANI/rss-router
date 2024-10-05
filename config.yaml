@@ -1,0 +1,19 @@
+sites:
+  
+  syyani:
+    url: "https://syyan.site"
+    title: "SYYANI Blog"
+    description: "RSS feed generated from SYYAN blog"
+    article_selector: "article"
+    title_selector: "h3.article-title a span"
+    link_selector: "h3.article-title a"
+    date_selector: "time.entry-date.published"
+    content_selector: "div.article-content"
+    date_format: "2006-01-02T15:04:05.000Z"
+    link_attribute_name: "href"
+
+  zidea:
+    url: "https://blog.zidea.site"
+    title: "Zida Blog with RSS"
+    description: "RSS feed from Zidea blog"
+    existing_rss_url: "https://blog.zidea.site/index.xml"
