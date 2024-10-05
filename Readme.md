@@ -87,4 +87,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+RVVSoC is under the [BSD-2-Clause license](https://github.com/SYYANI/rvvsoc/blob/main/LICENSE). See the [LICENSE](./LICENSE) file for details.
