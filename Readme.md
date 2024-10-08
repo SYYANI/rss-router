@@ -13,7 +13,7 @@ RSS Router is a flexible and powerful tool for generating and managing RSS feeds
 
 ## Prerequisites
 
-- Go 1.16 or higher
+- Go 1.22 or higher
 - Dependencies:
   - github.com/PuerkitoBio/goquery
   - github.com/gorilla/feeds
